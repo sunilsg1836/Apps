@@ -1,0 +1,10 @@
+name: Hello_App
+title:
+username: sunilsg
+account: sunilsg
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14955370
+bundleId: 10477581
+url: https://sunilsg.shinyapps.io/Hello_App/
+version: 1
